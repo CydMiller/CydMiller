@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋, I'm Cydney Miller
 
-<!--
-**CydMiller/CydMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student passionate about Software and Web Development. 
 
-Here are some ideas to get you started:
+🌱 **Currently Learning**: Full-stack technologies such as MongoDB, Node, and React, Design of Algorithms, Object-Oriented Programming in Python, and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Passionate About**: Builidng beautiful web apps that make user experiences seamless and improve internal productivity.
+
+🚀 **Career Goal**: Grow as a software developer and a working professional. 
+
+--- 
+
+## ⚙️ Tech Stack
+Here are some tools and languages I've worked with:
+
+- **Languages**: C++, Python, Javascript, Typescript
+- **Frameworks and Libraries**: Next,js, React
+- **Tools**: Git, Linux, VS Code, Figma Design
+
+--- 
+
+## 🧑‍💻 Connect with Me
+ - LinkedIn: [Cydney Miller](https://www.linkedin.com/in/cydney-miller-707716330/)
+ - Email: [cydbags15@gmail.com](mailto:cydbags15@gmail.com)
+
+---
