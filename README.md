@@ -1,4 +1,6 @@
-![Header](## Hi there 👋, I'm Cydney Miller
+![Header](![Cydney Miller Banner](image.png)
+
+## Hi there 👋, I'm Cydney Miller
 
 I am a Computer Science student passionate about Software and Web Development. 
 
