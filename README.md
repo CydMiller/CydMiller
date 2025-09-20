@@ -39,7 +39,7 @@ Here are some tools and languages I've worked with:
 </div>
 
 - **Tools**: 
-<div>
+<div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50"/>
