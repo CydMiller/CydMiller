@@ -15,7 +15,7 @@ I am a Computer Science student passionate about Software and Web Development.
 ## ⚙️ Tech Stack
 Here are some tools and languages I've worked with:
 
-- **Languages**: C++, Python, Javascript, Typescript
+- **Languages**: [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#), Python, Javascript, Typescript
 - **Frameworks and Libraries**: Next,js, React
 - **Tools**: Git, Linux, VS Code, Figma Design
 
