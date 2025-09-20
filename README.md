@@ -1,6 +1,6 @@
 <div align="center">
 
-![Cydney Miller Banner](image.png)
+![Cydney Miller Banner](https://github.com/CydMiller/CydMiller/blob/main/Cydney%20Miller%20LinkedIn%20Banner.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=79ffa0&lines=Hi+there!+I'm+Cydney+Miller;Software+Dev+%26+Web+Designer)](https://git.io/typing-svg)
 
