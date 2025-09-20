@@ -1,6 +1,10 @@
+<div align="center">
+
 ![Cydney Miller Banner](image.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=79ffa0&lines=Hi+there!+I'm+Cydney+Miller;Software+Dev+%26+Web+Designer)](https://git.io/typing-svg)
+
+</div>
 ---
 
 I am a Computer Science student passionate about Software and Web Development. 
