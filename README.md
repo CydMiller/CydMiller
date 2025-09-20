@@ -1,4 +1,4 @@
-![Header](![Cydney Miller Banner](image.png)
+![Cydney Miller Banner](image.png)
 
 ## Hi there 👋, I'm Cydney Miller
 
